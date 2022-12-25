@@ -1,6 +1,6 @@
 ## JS Word List Generator
 
-Use this script to generate a ** Custom word list** from the external and internal JavaScript files collected from a target hosh for directory enumeration and bruteforce.
+Use this script to generate a **Custom Word List** from the external and internal JavaScript files collected from a target hosh for directory enumeration and bruteforce.
 
 ### Usage
 cat script.js | python3 jswordlist.py
