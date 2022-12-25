@@ -2,12 +2,12 @@
 
 Use this script to generate a **Custom Word List** from the external and internal JavaScript files collected from a target hosh for directory enumeration and bruteforce.
 
-### Usage
+### Usage:
 
-git clone https://github.com/mukundsinh/Jswordlist.git
-cd Jswordlist
 pip install -r requirements.txt
-chmod +x jswordlist.py
+
+Make it executable.
+
 cat script.js | python3 jswordlist.py
 
 You can also provide multiple files:
