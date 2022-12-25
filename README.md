@@ -4,6 +4,8 @@ Use this script to generate a **Custom Word List** from the external and interna
 
 ### Usage:
 
+Clone it.
+
 pip install -r requirements.txt
 
 Make it executable.
