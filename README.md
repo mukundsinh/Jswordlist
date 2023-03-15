@@ -17,3 +17,5 @@ You can also provide multiple files:
 cat script1.js script2.js | python3 jswordlist.py
 
 Follow me on Twitter: [@r00td3str0y3r](https://twitter.com/r00td3str0y3r)
+
+#Bugbounty
